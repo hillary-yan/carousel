@@ -1,0 +1,40 @@
+.container { 
+  margin-bottom:0px !important;
+  margin-top:0px !important;
+ }
+
+.header-carousel-item{
+  height:450px;
+}
+
+.bg-cover{
+  background-size: cover;
+  background-position: center center;
+}
+
+.carousel-caption{
+  background-color: rgba(225, 65, 65, 0.719);
+}
+
+h1, .h1 {
+    font-size: 36px;
+  }
+  
+  h2, .h2 {
+    font-size: 30px;
+  }
+  
+  h3, .h3 {
+    font-size: 24px;
+  }
+  
+  h4, .h4 {
+    font-size: 18px;
+  }
+  
+  h5, .h5 {
+    font-size: 16px;
+  }
+  
+  h6, .h6 {
+    font-size: 14px;
